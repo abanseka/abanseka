@@ -1,16 +1,26 @@
-### Hi there 👋
+README 🔫
 
-<!--
-**abanseka/abanseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on projects from [Dev-jam](https://devjam.vercel.app/) 
+- 🌱 learning js/React
+- 🤔 And looking for tips on Software Development
+- 💬 Ask me about:
+    - 🏋️ self motivation
+    - 📑 study tips and tricks
+    - 🕐 time management
+    - 🖱️ and anything software related
+      - *I may not know the ans immidiately*
+      - ***But** i do no how to get them 💯 🥇*
+      - *can you guess the source quote 😆*
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
+  - 🔗 connect with me on [linkedIn](linkedin.com/in/abanseka-sylvester)
+  - 📸 follow me on [instagram](https://www.instagram.com/a_b_a_n_s_e_k_a/)
+  - 🛩️ chat with me on telegram **@**`@abanseka`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
+  - 📺 I enjoy binge watching movies 
+    > *Currently Arcane is my fav 😀*
+  - 🖌️ painting [digital portraits](https://www.instagram.com/a_b_a_n_s_e_k_a/)
+  - have the tendency to space out 😏
+  - 📯 very chatty in text, less in person 🤷‍♂️ (yep! that's me)
+  - *aaand.. ah luuuv ma space 👾 *
