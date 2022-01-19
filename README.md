@@ -1,5 +1,3 @@
-README 🔫
-
 - 🔭 I’m currently working on projects from [Dev-jam](https://devjam.vercel.app/) 
 - 🌱 learning js/React
 - 🤔 And looking for tips on Software Development
