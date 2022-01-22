@@ -8,7 +8,6 @@
     - 🖱️ and anything software related
       - *I may not know the ans immidiately*
       - ***But** i do no how to get them 💯 🥇*
-      - *can you guess the source quote 😆*
 
 - 📫 How to reach me:
   - 🔗 connect with me on [linkedIn](linkedin.com/in/abanseka-sylvester)
