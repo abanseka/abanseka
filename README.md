@@ -4,5 +4,4 @@
 
 - 📫 How to reach me:
   - 🔗 connect with me on [linkedIn](linkedin.com/in/abanseka-sylvester)
-  - 📸 follow me on [instagram](https://www.instagram.com/a_b_a_n_s_e_k_a/)
-  - 🛩️ chat with me on telegram **@**`@abanseka`
+  - 🛩️ chat with me on [Discord](https://discordapp.com/users/846409336594890804)
