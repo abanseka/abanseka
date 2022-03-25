@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on projects from [Dev-jam](https://devjam.vercel.app/) 
 - 🌱 learning js/React
-- 🤔 And looking for tips on Software Development
+- 🤔 And looking for help to become a better developer
 
 - 📫 How to reach me:
   - 🔗 connect with me on [linkedIn](linkedin.com/in/abanseka-sylvester)
