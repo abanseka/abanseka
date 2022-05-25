@@ -1,5 +1,6 @@
 - 🔭 I’m currently working on projects from [Dev-jam](https://devjam.vercel.app/) 
-- 🌱 learning js/React
+- 🌱 learning React and Nodejs
+- 🫀 Currently Open to freelance gigs and collaborations
 - 🤔 And looking for help to become a better developer
 
 - 📫 How to reach me:
