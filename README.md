@@ -1,5 +1,4 @@
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/abanseka/abanseka/blob/master/devcard.svg" width="400" alt="abanseka's Dev Card"/></a>
 
 <!-- - 🔭 I’m currently working on projects from [Dev-jam](https://devjam.vercel.app/) -->
 <!-- - 🌱 learning React and Nodejs -->
