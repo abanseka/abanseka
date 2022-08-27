@@ -3,7 +3,7 @@
 > 🫀 Currently Open to freelance gigs and collaborations
 
 <div id="badges">
-  <a href="linkedin.com/in/abanseka-sylvester">
+  <a href="https://linkedin.com/in/abanseka-sylvester">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discordapp.com/users/846409336594890804">
