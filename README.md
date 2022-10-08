@@ -1,6 +1,5 @@
 <img src="https://github.com/Lorezz/Lorezz/blob/main/bg.svg" width="100%" alt="lorezz's Github"/>
  
-> 🫀 Currently Open to freelance gigs and collaborations
 
 <div id="badges">
   <a href="https://linkedin.com/in/abanseka-sylvester">
