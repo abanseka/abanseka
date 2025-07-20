@@ -12,14 +12,24 @@ Currently building new features, debugging issues and enhancing [@archis academy
 
 ### 📬 Connect with me
 
-<div id="badges">
+<div id="badges" align="left">
+  
+  <a href="https://twitter.com/abanseka_">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter) Badge"/>
+  </a>
+  <br />
+ 
   <a href="https://linkedin.com/in/abanseka-sylvester">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br />
+
   <a href="https://discordapp.com/users/846409336594890804">
     <img src="https://img.shields.io/badge/Discord-red?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+
 </div>
+
 
 ---
 ### 🧰 Skills & Tools
@@ -34,7 +44,7 @@ Currently building new features, debugging issues and enhancing [@archis academy
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />  <br />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-db7093?style=flat-square&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
