@@ -6,7 +6,7 @@
 **Frontend Developer • Simplicity Advocate • Anti-Bloat Ware**
 
 I build clean, responsive web solutions that prioritise clarity, performance, and accessibility without the fluff.
-Currently building new features, debugging issues and enhancing [@archis academy](https://archisacademy.com).
+Currently building new features, debugging issues and enhancing UX [@archis academy](https://archisacademy.com).
 
 ---
 
