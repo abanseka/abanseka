@@ -78,26 +78,4 @@ Currently building new features, debugging issues and enhancing UX [@archis acad
 
 ---
 
-### 📊 GitHub Stats
-
-<table>
-<tr>
-  <td>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanseka&layout=compact&theme=dracula&hide_border=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=abanseka&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="sylvester's github stats" />
-    </a>
-  </td>
-  <td>
-    <a href="https://app.daily.dev/sly">
-      <img src="https://github.com/abanseka/abanseka/blob/main/devcard.svg" width="400" alt="abanseka sylvester's Dev Card"/>
-    </a>
-  </td>
-</tr>
-</table>
-
----
-
-_“Less, but better.”_
+### _“Stay hungry, stay foolish”_
